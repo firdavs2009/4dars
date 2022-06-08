@@ -1,0 +1,19 @@
+.document{
+    text-align: center;
+    
+}
+body{
+    background-color: #e0e3ff;
+    
+}
+input{
+    border-radius: 10px;
+    height: 35px;
+    
+}
+.word{
+    padding: 10px 50px;
+}
+.text{
+    color: blue;
+}
